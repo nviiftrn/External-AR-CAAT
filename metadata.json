@@ -1,0 +1,5 @@
+{
+  "name": "External AR Computer-Assisted Audit Tools",
+  "description": "A Computer-Assisted Audit Tool prototype for External Accounts Receivable auditing. Features data ingestion, detail tie-ins, aging analysis, confirmation sampling, and cutoff testing with AI-powered risk assessment.",
+  "requestFramePermissions": []
+}
