@@ -1,5 +1,5 @@
 {
-  "name": "external-ar-computer-assisted-audit-tools",
+  "name": "external-ar-computer-assisted-audit-tools-(caat)",
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -15,7 +15,7 @@
     "recharts": "2.12.3",
     "xlsx": "0.18.5",
     "lucide-react": "0.363.0",
-    "@google/genai": "0.1.0"
+    "@google/generative-ai": "^0.17.0"
   },
   "devDependencies": {
     "@types/node": "^22.14.0",
